@@ -1,0 +1,9 @@
+.vscode/
+.git/
+.gitignore/
+node_modules/
+Dockerfile
+docker-compose.yaml
+.prettierrc
+.env.example
+.env
